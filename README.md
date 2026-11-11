@@ -17,17 +17,6 @@ The objective is to transform unstructured customer feedback into meaningful ins
 - **Power BI:** Interactive dashboard and visualisation
 - **VS Code:** Development environment
 
-## Project Workflow
-
-1. Collected customer reviews from Google Play.
-2. Cleaned and prepared the review dataset using Python.
-3. Integrated NVIDIA API for AI-powered classification.
-4. Classified reviews based on sentiment, category and priority.
-5. Validated AI-generated classifications.
-6. Imported 600 records into MySQL.
-7. Performed SQL analysis to identify customer complaint patterns.
-8. Created an interactive Power BI dashboard.
-
    
 ## Project Architecture
 
