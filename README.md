@@ -75,8 +75,9 @@ SQL queries were developed to analyse:
 The interactive dashboard presents customer feedback through KPIs, sentiment distribution, complaint categories and priority analysis.
 
 **Dashboard Screenshot:**
+<img width="1142" height="651" alt="image" src="https://github.com/user-attachments/assets/cba37365-dc60-4406-b53e-dcf90e166ab0" />
 
-<!-- Add your Power BI dashboard screenshot here --> 
+
 
 ## Project Structure
 
