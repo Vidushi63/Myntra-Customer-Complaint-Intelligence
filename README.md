@@ -28,6 +28,28 @@ The objective is to transform unstructured customer feedback into meaningful ins
 7. Performed SQL analysis to identify customer complaint patterns.
 8. Created an interactive Power BI dashboard.
 
+   
+## Project Architecture
+
+```mermaid
+flowchart TD
+    A[Google Play Reviews - 600 Records]
+    B[Python and Pandas - Data Cleaning]
+    C[NVIDIA AI API - Review Classification]
+    D[Validation - Sentiment, Category and Priority]
+    E[MySQL - Database and SQL Analysis]
+    F[Power BI - Interactive Dashboard]
+    G[Business Insights and Recommendations]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+```
+
+
 ## Dataset Overview
 
 - Total Reviews: 600
